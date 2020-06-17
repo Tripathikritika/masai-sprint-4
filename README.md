@@ -1,1 +1,1 @@
-Food delivery System
+Foody App
