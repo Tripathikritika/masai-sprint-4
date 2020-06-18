@@ -2,33 +2,33 @@ var forms = document.querySelectorAll('.add-Cart');
 
 var foods = [
     {
-        name : 'Strip Bucket',
-        orderName: 'stripBucket',
-        price :500,
+        name : 'Chicken Biryani(Boneless)',
+        orderName: 'chickenBiryani',
+        price :248,
         inCart : 0
     },
     {
-        name :'Chizza',
-        orderName:'chizza',
-        price :279,
+        name :'Chicken Biryani',
+        orderName:'chickenBiryani',
+        price :250,
         inCart : 0
     },
     {
-        name : 'Veg Zinger and Fries Combo ',
-        orderName:'vegZingerAndFriesCombo',
-        price :225,
+        name : 'Meghna Special Biryani ',
+        orderName:'meghnaSpecialBiryani',
+        price :258,
         inCart : 0
     },
     {
-        name : 'Chicken Rice Bowlz' ,
-        orderName:'chickenRiceBowlz',
-        price :150,
+        name : 'Mutton Biryani' ,
+        orderName:'muttonBiryani',
+        price :300,
         inCart : 0
     },
     {
-        name : 'Red Bull Energy Drink' ,
-        orderName:'redBullEnergyDrink',
-        price : 150,
+        name : 'Mutton Keema Biryani' ,
+        orderName:'muttonKeemaBiryani',
+        price : 330,
         inCart : 0
     }
 
